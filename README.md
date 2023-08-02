@@ -1,4 +1,4 @@
-<br>
+
 ## 简介
 
 <br>
@@ -44,7 +44,7 @@ gpt3.5账号->去openai官网搞到api-keys->根据openai官网的python api文�
             提取码: w0ci 
 <br>
 <br>
-<img src="https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/0574371a-1b39-4967-b42d-4a16561f4fda" transform: scale(0.1)>
+<img src="https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/0574371a-1b39-4967-b42d-4a16561f4fda" width:200px>
 ![image](https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/0574371a-1b39-4967-b42d-4a16561f4fda)
 ![image](https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/c29bfd28-1827-4544-8be3-8abaca4e8eb9)
 ![image](https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/90dc28d5-94e7-4495-b371-a06ade349cb0)
