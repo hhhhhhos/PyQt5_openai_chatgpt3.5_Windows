@@ -47,7 +47,9 @@
 <img src="https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/0574371a-1b39-4967-b42d-4a16561f4fda" width=300px>
 
 <img src="https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/c29bfd28-1827-4544-8be3-8abaca4e8eb9" width=300px>
+<br>
 <img src="https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/90dc28d5-94e7-4495-b371-a06ade349cb0" width=300px>
+<br>
 <img src="https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/5d352e41-0b44-44e9-91f3-4ad8a2397516" width=600px>
 
 
