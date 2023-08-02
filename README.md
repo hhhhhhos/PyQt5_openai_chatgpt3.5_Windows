@@ -1,0 +1,2 @@
+# PyQt5_openai_chatgpt3.5_Windows
+基于PyQt5和openai_api的windows桌面chatgpt
