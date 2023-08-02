@@ -1,6 +1,6 @@
-<br>
+
 ## 简介
-<br>
+
 <br>
 <br>
 基于PyQt5和openai_api的chatgpt3.5 windows桌面应用
@@ -16,9 +16,9 @@ openai_api-keys网站：https://platform.openai.com/account/api-keys
 <br>
 <br>
 <br>
-<br>
+
 ## 文件说明
-<br>
+
 <br>
 <br>
 1. chat.py：主内容文件 包含api输入窗口和对话窗口
@@ -28,9 +28,9 @@ openai_api-keys网站：https://platform.openai.com/account/api-keys
 5. mrsoft.db：主要存放api的密匙 和记录登录界面的两个勾选窗口是否被勾选
 <br>
 <br>
-<br>
+
 ## 大概想法
-<br>
+
 <br>
 <br>
 因为openai规定免费用户调用api次数1分钟只有3-4次好像 <br>
