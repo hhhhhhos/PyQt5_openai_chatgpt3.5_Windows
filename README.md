@@ -1,7 +1,7 @@
 
 ## 简介
 
-基于PyQt5和openai_api的windows桌面chatgpt
+基于PyQt5和openai_api的chatgpt3.5 windows桌面应用
 
 gpt3.5账号->去openai官网搞到api-keys->根据openai官网的python api文档->套一个pyqt的壳玩玩
 
