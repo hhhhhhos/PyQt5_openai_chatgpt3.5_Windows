@@ -3,7 +3,8 @@
 
 基于PyQt5和openai_api的chatgpt3.5 windows桌面应用
 
-gpt3.5账号->去openai官网搞到api-keys->根据openai官网的python api文档->套一个pyqt的壳玩玩
+gpt3.5账号->去openai官网搞到api-keys->
+->根据openai官网的python api文档->套一个pyqt5的壳玩玩
 
 openai_api-keys网站：https://platform.openai.com/account/api-keys
 
@@ -18,7 +19,14 @@ openai_api-keys网站：https://platform.openai.com/account/api-keys
 4. main.py：openai库最简单prompt调用3.5模型示例
 5. mrsoft.db：主要存放api的密匙 和记录登录界面的两个勾选窗口是否被勾选
 
-完整安装包下载地址：
+## 大概想法
+
+因为openai规定免费用户调用api次数1分钟只有3-4次好像 
+所以每当按下send发送后先run一个线程计时10秒冷却开关 
+然后再run第二个线程发送信息给openai官网 防止阻塞在主页面卡顿卡死
+
+完整安装包下载地址：https://pan.baidu.com/s/1fcsfhmIeYG336LTR4XGL9w?pwd=w0ci 提取码: w0ci 
+
 <img src="https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/0574371a-1b39-4967-b42d-4a16561f4fda" style="width: 200px; height: 200px">
 ![image](https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/0574371a-1b39-4967-b42d-4a16561f4fda)
 ![image](https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/c29bfd28-1827-4544-8be3-8abaca4e8eb9)
