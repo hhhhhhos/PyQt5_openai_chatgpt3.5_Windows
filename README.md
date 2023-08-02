@@ -19,7 +19,7 @@ openai_api-keys网站：https://platform.openai.com/account/api-keys
 5. mrsoft.db：主要存放api的密匙 和记录登录界面的两个勾选窗口是否被勾选
 
 完整安装包下载地址：
-
+<img src="https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/0574371a-1b39-4967-b42d-4a16561f4fda" style="width: 200px; height: 200px">
 ![image](https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/0574371a-1b39-4967-b42d-4a16561f4fda)
 ![image](https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/c29bfd28-1827-4544-8be3-8abaca4e8eb9)
 ![image](https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/90dc28d5-94e7-4495-b371-a06ade349cb0)
@@ -36,6 +36,4 @@ openai_api-keys网站：https://platform.openai.com/account/api-keys
 
 ## Thanks
 
-感谢 [JetBrains](https://www.jetbrains.com/?from=NBlog) 提供的 Open Source License
-
-感谢上面提到的每个开源项目
+感谢 
