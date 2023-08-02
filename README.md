@@ -1,36 +1,13 @@
-# PyQt5_openai_chatgpt3.5_Windows
-基于PyQt5和openai_api的windows桌面chatgpt
-
-<p align="center">
-	<a href="https://naccl.top/" target="_blank">
-		<img src="./pic/NBlog.png" alt="NBlog logo" style="width: 200px; height: 200px">
-	</a>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/badge/JDK-1.8+-orange">
-	<img src="https://img.shields.io/badge/SpringBoot-2.2.7.RELEASE-brightgreen">
-	<img src="https://img.shields.io/badge/MyBatis-3.5.5-red">
-	<img src="https://img.shields.io/badge/Vue-2.6.11-brightgreen">
-	<img src="https://img.shields.io/badge/license-MIT-blue">
-	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNaccl%2FNBlog&count_bg=%2344CC11&title_bg=%23555555&icon=notist.svg&icon_color=%231296DB&title=hits&edge_flat=false">
-</p>
-
-
-
 
 ## 简介
 
-Spring Boot + Vue「前后端分离，人不分离」博客系统
+基于PyQt5和openai_api的windows桌面chatgpt
 
-自用博客，长期维护，欢迎勘误
+gpt3.5账号->去openai官网搞到api-keys->根据openai官网的python api文档->套一个pyqt的壳玩玩
 
-预览地址：
+openai_api-keys网站：https://platform.openai.com/account/api-keys
 
-前台：[https://naccl.top](https://naccl.top)
-
-后台：[https://admin.naccl.top](https://admin.naccl.top)
-
-
+学习书籍参考 1.明日科技-Python 从入门到精通 2.明日科技-PyQt从入门到精通
 
 ## 后端
 
