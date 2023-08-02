@@ -26,11 +26,11 @@ openai_api-keys网站：https://platform.openai.com/account/api-keys
 
 <br>
 <br><br>
-1. chat.py：主内容文件 包含api输入窗口和对话窗口
-2. cha3t.ui：对话窗口的ui设计界面 可用QT designer附件打开 再用PYUIC转换为py代码
-3. logkey.ui：api输入界面 同上
-4. main.py：openai库最简单prompt调用3.5模型示例
-5. mrsoft.db：主要存放api的密匙 和记录登录界面的两个勾选窗口是否被勾选
+1. chat.py：主内容文件 包含api输入窗口和对话窗口<br>
+2. cha3t.ui：对话窗口的ui设计界面 可用QT designer附件打开 再用PYUIC转换为py代码<br>
+3. logkey.ui：api输入界面 同上<br>
+4. main.py：openai库最简单prompt调用3.5模型示例<br>
+5. mrsoft.db：主要存放api的密匙 和记录登录界面的两个勾选窗口是否被勾选<br>
 <br>
 <br>
 <br>
@@ -50,7 +50,6 @@ openai_api-keys网站：https://platform.openai.com/account/api-keys
 <br>
 <br>
 <img src="https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/0574371a-1b39-4967-b42d-4a16561f4fda" transform: scale(0.5)>
-<br>
 ![image](https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/0574371a-1b39-4967-b42d-4a16561f4fda)
 ![image](https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/c29bfd28-1827-4544-8be3-8abaca4e8eb9)
 ![image](https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows/assets/71121770/90dc28d5-94e7-4495-b371-a06ade349cb0)
