@@ -3,8 +3,9 @@
 ## 2024-06-29更新
 怎么还有两个🌟 😂<br>
 这是后面一些完整的更新released版本和源码<br>
-https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows_2
+仓：https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows_2
 <br>
+下载：https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows_2/blob/master/chat0.2.5.rar
 <br>
 
 
