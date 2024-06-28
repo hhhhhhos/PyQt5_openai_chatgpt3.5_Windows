@@ -1,11 +1,11 @@
 <br>
 
-## 简介
-
+## 
 2024-06-29更新：<br>
 怎么还有两个🌟 😂<br>
 这是后面一些完整的released版本和源码库https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows_2
-## 
+
+## 简介
 
 基于PyQt5和openai_api的chatgpt3.5 windows桌面应用 2023-6
 <br>
