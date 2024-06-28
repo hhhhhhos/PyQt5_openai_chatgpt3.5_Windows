@@ -6,7 +6,7 @@
 仓：https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows_2
 <br>
 下载：https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows_2/blob/master/chat0.2.5.rar
-<br>
+<br><br><br>
 
 
 ## 简介
