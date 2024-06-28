@@ -2,7 +2,7 @@
 
 ## 2024-06-29更新
 怎么还有两个🌟 😂<br>
-这是后面一些完整的released版本和修改的源码<br>
+这是后面一些完整的更新released版本和源码<br>
 https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows_2
 
 ## 简介
