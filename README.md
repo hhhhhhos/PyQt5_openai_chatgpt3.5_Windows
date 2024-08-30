@@ -7,7 +7,7 @@
 <br>
 下载：https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows_2/blob/master/chat0.2.5.rar
 <br>
-下载：[https://github.com/hhhhhhos/PyQt5_openai_chatgpt3.5_Windows_2/blob/master/chat0.2.5.rar](https://pan.baidu.com/s/15ewSiYwzs1bl3jf85E9YYQ?pwd=qwer)
+下载2：https://pan.baidu.com/s/15ewSiYwzs1bl3jf85E9YYQ?pwd=qwer
 <br><br><br>
 
 
